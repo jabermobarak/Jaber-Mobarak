@@ -1,4 +1,4 @@
-# Jaber Mobarak
+# Jaber-Mobarak
 
 # Hi, I'm Jaber Mobarak
 
@@ -6,7 +6,7 @@ I'm a master's student in AI \& Big Data at STANKIN in Moscow.
 My interests include computer vision, multimodal learning, and
 reliable evaluation of AI systems.
 
-### My Current research
+### Current research
 
 My master's thesis investigates failure modes in vision-language
 models for medical image understanding. I work with Qwen2.5-VL
